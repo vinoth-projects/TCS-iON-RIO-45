@@ -1,5 +1,5 @@
 # TCS-iON-RIO-45
-Automate detection of different emotions from textual comments and feedback Batch 1
+Automate detection of different emotions from textual comments and feedback 
 
 # Project Description:
 # Project Objective & Brief:  
